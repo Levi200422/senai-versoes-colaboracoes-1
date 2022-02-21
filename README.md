@@ -1,14 +1,14 @@
 # senai-versoes-colaboracoes
-para fins educativos
+para fins educativos;
 
-fazendo uma alteração direta
+fazendo uma alteração direta;
 
-lembrei do comando git commit
+lembrei do comando git commit;
 
-lembrei do comando git status
+lembrei do comando git status;
 
-tarefa/minha-primeira-branch
+tarefa/minha-primeira-branch;
 
-Repositorio feito para publicação das atividades realizadas durante todo o curso de Programador Full Stack
+Repositorio feito para publicação das atividades realizadas durante todo o curso de Programador Full Stack;
 
-Alteração realzada por Levi Ambé para resolução da atividade 2 da UC 7
+Alteração realzada por Levi Ambé para resolução da atividade 2 da UC 7;
